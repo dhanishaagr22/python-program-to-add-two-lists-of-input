@@ -1,0 +1,13 @@
+for i in range(7):
+        
+            for k0017 in range(6-i):
+                print("  ",end=" ")
+            if(i>0):
+                for l0017 in range(i+1,1,-1):
+               
+                    print(str(l0017)+" ",end=" ")
+                
+            for j0017 in range(i+1):
+                 print(str(j0017+1)+" ",end=" ")
+                
+            print("")
